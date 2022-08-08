@@ -1,0 +1,41 @@
+@import "./normalize.css";
+@import "./fonts.css";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;;
+}
+
+.wrapper {
+  width: 1110px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.main-nav {
+  background-color: #EFEFEF;
+  text-align: center;
+}
+
+.navigation__link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #333333;
+  text-decoration: none;
+}
+
+.navigation--padding {
+  padding: 16px 0px;
+}
+
+.navigation__link--indent {
+  margin-right: 30px;
+}
+
+.navigation__link--indent:last-child {
+  margin-right: 0px;
+}
