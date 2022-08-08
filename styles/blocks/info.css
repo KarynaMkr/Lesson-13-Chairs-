@@ -1,0 +1,21 @@
+.line {
+  border-bottom: 1px solid #EFEFEF;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0px;
+}
+
+.info__button {
+  margin-left: 40px;
+}
+
+.info__navigation {
+  padding: 30px 0px;
+}
+
+.info__connection {
+  align-self: center;
+}
