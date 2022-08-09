@@ -1,28 +1,10 @@
-@import "./normalize.css";
 @import "./fonts.css";
+@import "./blocks/settings.css";
+@import "./normalize.css";
 @import "./blocks/navigation.css";
 @import "./blocks/button.css";
 @import "./blocks/info.css";
 @import "./blocks/cards.css";
-
-* {
-  box-sizing: border-box;
-}
-
-body {
-  font-family: 'Roboto', sans-serif;;
-}
-
-.wrapper {
-  /* background-color: powderblue; */
-  width: 1110px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-p {
-  margin: 0px;
-}
 
 .main-nav {
   background-color: #EFEFEF;

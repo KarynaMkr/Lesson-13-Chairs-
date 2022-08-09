@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;;
+}
+
+.wrapper {
+  /* background-color: powderblue; */
+  width: 1110px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+p {
+  margin: 0px;
+}
