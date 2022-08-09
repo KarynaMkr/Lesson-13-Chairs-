@@ -19,9 +19,18 @@
 }
 
 
-/* .button__link {
-
-} */
+.button__link {
+  background: #F13C6E;
+  border-radius: 30px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  color: #FFFFFF;
+  padding: 10px 40px;
+  text-decoration: none;
+  }
 
 .button__link--secondary {
   background: #F13C6E;

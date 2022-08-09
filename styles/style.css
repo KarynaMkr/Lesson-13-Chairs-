@@ -3,6 +3,7 @@
 @import "./blocks/navigation.css";
 @import "./blocks/button.css";
 @import "./blocks/info.css";
+@import "./blocks/cards.css";
 
 * {
   box-sizing: border-box;
@@ -17,6 +18,10 @@ body {
   width: 1110px;
   margin-right: auto;
   margin-left: auto;
+}
+
+p {
+  margin: 0px;
 }
 
 .main-nav {
@@ -54,3 +59,8 @@ body {
   width: 308px;
 }
 
+
+.main {
+  padding: 80px 0px;
+  background-color: #EFEFEF;
+}
