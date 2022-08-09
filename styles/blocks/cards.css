@@ -60,6 +60,7 @@
   background-color: #F13C6E;
   padding: 35px 45px 35px 40px;
   margin-right: 30px;
+  width: 540px;
 }
 
 .cards-2x:nth-child(2n) {
