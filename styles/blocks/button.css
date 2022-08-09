@@ -11,3 +11,35 @@
   font-size: 14px;
   line-height: 16px;
 }
+
+.button--secondary:hover {
+  background-color: #F13C6E;
+  color: #FFFFFF;
+  border: 2px solid #FFFFFF;
+}
+
+
+/* .button__link {
+
+} */
+
+.button__link--secondary {
+  background: #F13C6E;
+  border: 2px solid #FFFFFF;
+  border-radius: 40px;
+  padding: 12px 46px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.button__link--secondary:hover {
+  background-color: #FFFFFF;
+  color: #F13C6E;
+  border: 2px solid #F13C6E;
+}
+
