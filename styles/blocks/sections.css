@@ -1,0 +1,22 @@
+.main-nav {
+  background-color: #EFEFEF;
+  /* text-align: center; */
+}
+
+.baner {
+  background-color: #F13C6E;
+  background-image: url('../../images/main_chair.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.main {
+  padding: 80px 0px;
+  background-color: #EFEFEF;
+}
+
+.info-cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
