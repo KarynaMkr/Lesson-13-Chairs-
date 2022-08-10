@@ -1,0 +1,25 @@
+.short-description--settings {
+  background-color: #EFEFEF;
+  padding: 25px 0px;
+}
+
+.short-description--position {
+  display: flex;
+  justify-content: space-between;
+}
+
+.short-description--text {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #828282;
+}
+
+.short-description--link {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: right;
+  color: #828282;
+  text-decoration: none;
+}

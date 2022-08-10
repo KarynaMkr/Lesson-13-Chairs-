@@ -5,7 +5,6 @@
 
 .logo-cards__list {
   background-color: #FFFFFF;
-  padding: 35px 64px;
   width: 25%;
   border-right: 1px solid #EFEFEF;
   border-bottom: 1px solid #EFEFEF;
@@ -13,6 +12,11 @@
 
 .logo-cards__list:nth-child(4n) {
   border-right: none;
+}
+
+.logo-cards__link {
+  display: block;
+  padding: 35px 64px;
 }
 
 .logo-cards__img {

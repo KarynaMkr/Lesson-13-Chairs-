@@ -12,13 +12,6 @@
   line-height: 16px;
 }
 
-.button--secondary:hover {
-  background-color: #F13C6E;
-  color: #FFFFFF;
-  border: 2px solid #FFFFFF;
-}
-
-
 .button__link {
   background: #F13C6E;
   border-radius: 30px;
@@ -44,12 +37,6 @@
   letter-spacing: 0.05em;
   color: #FFFFFF;
   text-decoration: none;
-}
-
-.button__link--secondary:hover {
-  background-color: #FFFFFF;
-  color: #F13C6E;
-  border: 2px solid #F13C6E;
 }
 
 .button__link--secondary2x {
