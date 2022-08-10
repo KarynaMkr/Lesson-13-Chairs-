@@ -1,0 +1,19 @@
+.contacts__indents {
+  padding: 38px 0px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.contacts__icon {
+  width: 45px;
+  height: 45px;
+}
+
+.contacts__link {
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.contacts__link:last-child {
+  margin-right: 0px;
+}
