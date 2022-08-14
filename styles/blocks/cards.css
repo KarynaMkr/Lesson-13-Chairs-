@@ -71,11 +71,16 @@
   margin-right: 65px;
 }
 
+.cards__content--2x {
+  margin-right: 16px;
+}
+
 .cards__big--title {
   font-weight: 700;
   font-size: 18px;
   line-height: 21px;
   margin-bottom: 25px;
+  width: 250px;
 }
 
 .cards__big--description {

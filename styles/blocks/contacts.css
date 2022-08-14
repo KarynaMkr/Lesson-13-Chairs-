@@ -2,16 +2,24 @@
   padding: 38px 0px;
   display: flex;
   justify-content: space-between;
+  font-size: 0px;
 }
 
-.contacts__icon {
-  width: 45px;
-  height: 45px;
+.contact__icons {
+  display: flex;
 }
 
 .contacts__link {
+  display: flex;
   text-decoration: none;
   margin-right: 20px;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  border: 2px solid #F13C6E;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
 }
 
 .contacts__link:last-child {
