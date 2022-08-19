@@ -96,7 +96,7 @@
   background-color: #FFFFFF;
   outline: none;
   width: 225px;
-  padding: 9px 0 9px 25px;
+  padding: 9px 25px 9px 25px;
 }
 
 .cards__big--input::placeholder {

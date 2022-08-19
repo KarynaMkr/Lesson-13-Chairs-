@@ -10,6 +10,10 @@
   margin-right: 30px;
 }
 
+.categories__blocks:last-child {
+  margin-right: 0px;
+}
+
 .categories__title {
   font-weight: 500;
   font-size: 16px;
